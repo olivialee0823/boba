@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Times New Roman;
+    color: #2e1308;
+    background: #bc9773;
+}
+}
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
